@@ -1,5 +1,10 @@
 {
-    "prefix": "Whatever prefix you want, like ? or ! doesn't matter.", // The bots prefix.
-    "token": "Put your token here.", // Bot token can be found https://discordapp.com/developers/applications/
-    "salty": "This is just a test for you to import a string from the config file into the bots main command file." // This is for the salty command which imports this string.
+    "comment1_removethis" : "The bots prefix.",
+    "prefix": "Whatever prefix you want, like ? or ! doesn't matter.",
+
+    "comment2_removethis" : "Bot token can be found https://discordapp.com/developers/applications/",
+    "token": "Put your token here.",
+
+    "comment3_removethis" : "This is for the salty command which imports this string.",
+    "salty": "This is just a test for you to import a string from the config file into the bots main command file."
 }
