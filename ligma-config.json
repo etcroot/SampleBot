@@ -1,10 +1,11 @@
 {
-    "comment1_removethis" : "The bots prefix.",
+    // Make sure you remove the comment lines before you run the bot as json doesn't support it.
+    
+    // The bots prefix.
     "prefix": "Whatever prefix you want, like ? or ! doesn't matter.",
-
-    "comment2_removethis" : "Bot token can be found https://discordapp.com/developers/applications/",
+    // Bot token can be found https://discordapp.com/developers/applications/
     "token": "Put your token here.",
-
-    "comment3_removethis" : "This is for the salty command which imports this string.",
+    // This is for the salty command which imports this string.
     "salty": "This is just a test for you to import a string from the config file into the bots main command file."
 }
+
