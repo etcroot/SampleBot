@@ -7,6 +7,8 @@ Nodejs
 npm
 
 To install the library do "npm i discord.js --save" in your terminal.
+
+Running the bot "node bot.js" in your terminal.
 */
 
 
